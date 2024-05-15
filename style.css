@@ -1,0 +1,30 @@
+H1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    top: 0px;
+    margin: auto;
+    border: 1px solid;
+    padding: 0px 20px 0px 20px;
+    border-radius: 5px;
+
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.tabela {
+    width: 800px;
+    margin: 0px 500px 0px 500px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
